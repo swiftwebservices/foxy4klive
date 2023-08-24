@@ -1,0 +1,31 @@
+# system dust
+venv/
+__pycache__/
+__pycache__
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.idea/
+*.swp
+.idea
+.pytest_cache
+*.pyc
+*.exe
+*.env
+
+# Folders
+instance
+filesystem
+_help
+_lab
+_local
+flask_session
+logs
+_
+# Extensions
+*.log
+*.db
